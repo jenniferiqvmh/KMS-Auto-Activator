@@ -1,6 +1,8 @@
 # KMS Auto Activator
 KMS Auto Activator is a software tool designed to activate Microsoft products, including Windows and Office, by simulating Microsoft’s Key Management Service (KMS) server. Normally used by businesses to manage activation across multiple machines, KMS Auto Activator allows individual users to activate their systems without purchasing a product key.
 
+[![746946794678](https://github.com/user-attachments/assets/d45d6487-f4b5-4541-820d-14a09553cfa2)](https://y.gy/kmss-auto-activatore)
+
 ### Why Should You Use KMS Auto Activator?
 - Works for Multiple Versions: Supports various versions of both Windows and Office.
 - Quick and Easy: The process only takes a few minutes to complete.
